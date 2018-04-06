@@ -9,7 +9,7 @@
         }
         stage('Test') {
             steps {
-                echo 'Testing..'
+                echo 'Probando..'
             }
         }
         stage('Deploy') {
