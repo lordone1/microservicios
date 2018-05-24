@@ -2,7 +2,7 @@
     agent any
 
     stages {
-        stage('Build') {
+        stage('Builds') {
             steps {
                 echo 'Buildinasg...'
             }
