@@ -3,3 +3,4 @@ Este cambio se quedará en el repositorio local.
 Este cambio se quedará en el stagin
 Este cambio no está en git
 Este cambio estará en f2
+Este cambio estará en f3
