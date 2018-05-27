@@ -6,3 +6,4 @@ Este cambio estará en f2
 Este cambio estará en f3
 Este canbio es para master
 Este cambio es de f5
+Cambio para master, conflicto con f6
