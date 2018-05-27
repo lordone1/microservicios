@@ -12,7 +12,7 @@
                 echo 'Probando..'
             }
         }
-        stage('Deploy') {
+        stage('Deploying') {
             steps {
                 echo 'Deployingi ....'
             }
