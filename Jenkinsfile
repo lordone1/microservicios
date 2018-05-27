@@ -14,7 +14,7 @@
         }
         stage('Deploying') {
             steps {
-                echo 'Deployingi ....'
+                echo 'Cambios por f6 Deployingi ....'
             }
         }
     }
