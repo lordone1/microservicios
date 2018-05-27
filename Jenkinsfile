@@ -7,7 +7,7 @@
                 echo 'Buildinasgo...'
             }
         }
-        stage('Test') {
+        stage('Testitas') {
             steps {
                 echo 'Probando..'
             }
